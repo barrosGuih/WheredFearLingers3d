@@ -12,17 +12,4 @@ Unity 2022 LTS ou superior
 
 Plataforma: PC
 
-* Assets e Conteúdos Extras
-
-Devido ao tamanho e a limitações do GitHub, alguns assets (mapa principal, texturas e efeitos visuais) não estão incluídos no repositório.
-
-➡️ Download dos extras:
-Link para download dos assets
-
-Após o download, extraia os arquivos para:
-
-Assets/Extras
-
-🚧 Observações
-
-Este projeto não possui fins comerciais e foi criado exclusivamente para fins educacionais e estudo de desenvolvimento de jogos.
+EM CONSTRUCAO!!
